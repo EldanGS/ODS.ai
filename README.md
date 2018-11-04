@@ -5,3 +5,4 @@ My implementations of Open Data Science courses
   - [Assignment 1](https://github.com/EldanGS/ODS.ai/blob/master/mlcourse.ai/assignment%201/Assignment%20%231.ipynb)
   - [Assignment 2](https://github.com/EldanGS/ODS.ai/blob/master/mlcourse.ai/assignment%202/assignment2_USA_flights.ipynb)
   - [Assignment 3](https://github.com/EldanGS/ODS.ai/blob/master/mlcourse.ai/assignment%203/assignment3.ipynb)
+  - [Assignment 4](https://github.com/EldanGS/ODS.ai/blob/master/mlcourse.ai/assignment%204/assignment04_linreg_optimization.ipynb)
